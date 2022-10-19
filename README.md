@@ -53,6 +53,14 @@ Example of usage can be found in the UI repository [here](https://github.com/par
 - Install dependencies using `pnpm install`
 - Run interactive tests using `pnpm dev`
 
+## Testing via Vitest
+Some tests require localhost network to be running successfuly. 
+- Make sure to have local network with defined config launched. You can learn to launch it from [ParaSpell UI repository](https://github.com/paraspell/ui).
+Start UNIT tests for every available function with
+```
+pnpm test
+```
+
 ## License
 Made with 💛
 
