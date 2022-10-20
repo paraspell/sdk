@@ -13,13 +13,13 @@ Install package:
 
 ```sh
 # npm
-npm install @paraspell/sdk
+npm install @paraspell/sdk@0.0.11
 
 # yarn
-yarn install @paraspell/sdk
+yarn install @paraspell/sdk@0.0.11
 
 # pnpm
-pnpm install @paraspell/sdk
+pnpm install @paraspell/sdk@0.0.11
 ```
 
 Import:
